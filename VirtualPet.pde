@@ -22,7 +22,7 @@ ellipse(175,185,10,10);
 ellipse(225,185,10,10);
 fill(#BA9D6A);
 ellipse(200,230,50,40);
+ellipse(200,325,50,50);
 fill(#ECD6B0);
 ellipse(200,220,15,10);
-ellipse(200,325,50,50);
 }
